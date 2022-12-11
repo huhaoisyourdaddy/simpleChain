@@ -24,9 +24,9 @@ const (
 var genesisBlock = &Block{
 	Index:        0,
 	PreviousHash: "0",
-	Timestamp:    1465154705,
-	Data:         "my genesis block!!",
-	Hash:         "816534932c2b7154836da6afc367695e6337db8a921823784c14378abed4f7d7",
+	Timestamp:    1665154705,
+	Data:         "First block!!",
+	Hash:         "e253ba2d5ff4913cbafdc3fdbc8e395234630200b57ba3c44bcef4809e882277",
 }
 
 var (
